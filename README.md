@@ -1,6 +1,6 @@
 # NeuroLens
 
-This repository contains the Subject 1 training release for **NeuroLens: A Unified Multi-Task Model for Visual Reconstruction and Language Interaction from fMRI Signals**.
+This repository contains the training release for **NeuroLens: A Unified Multi-Task Model for Visual Reconstruction and Language Interaction from fMRI Signals**.
 
 NeuroLens decodes fMRI responses into a shared brain-visual representation that supports image reconstruction, caption generation, open-ended visual-language interaction, and spatial grounding. This public package first releases the Subject 1 training pipeline.
 
